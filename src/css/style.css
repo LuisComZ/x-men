@@ -76,9 +76,7 @@ ul {
   gap: 25px;
 }
 
-.listaDePersonagens 
-.personagens 
-img {
+.listaDePersonagens .personagens img {
   width: 80%;
   height: 80%;
 }
@@ -126,17 +124,13 @@ img {
     gap: 9px;
   }
 
-  
-
   .titulo {
     font-size: 15px;
   }
 
-  .listaDePersonagens 
-  .personagens 
-  img {
+  .listaDePersonagens .personagens img {
     width: 80%;
-  } 
+  }
 
   .personagemGrande {
     width: 350px;
@@ -146,7 +140,7 @@ img {
   .descricaoPersonagem {
     width: 80%;
     margin: 20px auto;
-    
+
     font-size: 16px;
   }
 }
